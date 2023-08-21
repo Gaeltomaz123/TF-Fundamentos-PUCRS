@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Medicamentos
+comment1.params=nomeRemedio\ qntdCaixas
+comment1.target=Medicamentos(java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getNomeRemedio()
+comment3.params=
+comment3.target=int\ getQntdCaixas()
+comment4.params=novaQntndCaixa
+comment4.target=void\ setQntdCaixas(int)
+comment5.params=novoNomeRemedio
+comment5.target=void\ setNomeRemedio(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
